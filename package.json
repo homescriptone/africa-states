@@ -1,0 +1,26 @@
+{
+  "name": "africa-states",
+  "version": "1.0.0",
+  "description": "List of Africa states",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homescriptone/africa-states.git"
+  },
+  "keywords": [
+    "africa-states",
+    "benin",
+    "togo",
+    "js-africa-states"
+  ],
+  "author": "HomeScript",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/homescriptone/africa-states/issues"
+  },
+  "homepage": "https://github.com/homescriptone/africa-states#readme",
+  "dependencies": {}
+}
