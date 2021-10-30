@@ -1,7 +1,7 @@
 # africa-states
 A list of municipalities in African countries.
 
-[![npm version](https://img.shields.io/npm/v/@stripe/react-stripe-js.svg?style=flat-square)](https://www.npmjs.com/package/@stripe/react-stripe-js)
+[![npm version](https://img.shields.io/npm/v/@stripe/react-stripe-js.svg?style=flat-square)](https://github.com/homescriptone/africa-states)
 
 ## Installation
 First, install the package : 
