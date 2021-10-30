@@ -1,7 +1,12 @@
 # africa-states
 A list of municipalities in African countries.
 
-[![npm version](https://img.shields.io/npm/v/@stripe/react-stripe-js.svg?style=flat-square)](https://github.com/homescriptone/africa-states)
+[![issues](https://img.shields.io/github/issues/homescriptone/africa-states)](https://github.com/homescriptone/africa-states)
+[![forks](https://img.shields.io/github/forks/homescriptone/africa-states)](https://github.com/homescriptone/africa-states)
+[![stars](https://img.shields.io/github/stars/homescriptone/africa-states)](https://github.com/homescriptone/africa-states)
+[![license](https://img.shields.io/github/license/homescriptone/africa-states)](https://github.com/homescriptone/africa-states)
+[![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fhomescriptone%2Fafrica-states)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fhomescriptone%2Fafrica-states)
+
 
 ## Installation
 First, install the package : 
@@ -28,8 +33,6 @@ First, install the package :
   //Get state from a specific country
   let benin_states = state_obj.get_state('BJ');
   let togo_states  = state_obj.get_state('TG'); 
-  ...
-
 ```
 
 ## Contributing
