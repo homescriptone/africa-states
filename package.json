@@ -1,5 +1,5 @@
 {
-  "name": "africa-states",
+  "name": "@homescriptone/africa-states",
   "version": "1.0.0",
   "description": "List of Africa states",
   "main": "index.js",
