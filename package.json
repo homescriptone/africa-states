@@ -22,5 +22,8 @@
     "url": "https://github.com/homescriptone/africa-states/issues"
   },
   "homepage": "https://github.com/homescriptone/africa-states#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@homescriptone"
+  },
   "dependencies": {}
 }
