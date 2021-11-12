@@ -14,7 +14,7 @@ exports.states_lists = {
         'ZO' : 'Zou'
     },
 
-    'CIV' : { // Côte d'Ivoire
+    'CI' : { // Côte d'Ivoire
         'AB' : 'Abidjan',
         'BS' : 'Bas-Sassandra',
         'CM' : 'Comoé',
@@ -77,6 +77,7 @@ exports.states_lists = {
         'ioba': "Ioba",
         'noumbiel': "Noumbiel",
         'poni': "Poni"
+    },
 
     'TG': { // TOGO
         'GF1':'Golfe 1',
