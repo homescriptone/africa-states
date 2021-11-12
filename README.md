@@ -35,6 +35,15 @@ First, install the package :
   let togo_states  = state_obj.get_state('TG'); 
 ```
 
+## List of states names accepted
+
+| Country          	  | Short Identifier 	  |
+|------------------	  |------------------ |
+| 🇧🇯 Benin         	| BJ               	|
+| 🇹🇬 Togo          	| TG               	|
+| 🇨🇮 Cote d'Ivoire 	| CI               	|
+| 🇧🇫 Burkina-Faso 	| BF               	|
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
