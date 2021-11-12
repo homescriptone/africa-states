@@ -78,7 +78,7 @@ exports.states_lists = {
         'noumbiel': "Noumbiel",
         'poni': "Poni"
 
-    'TGO': { // TOGO
+    'TG': { // TOGO
         'GF1':'Golfe 1',
         'GF2':'Golfe 2',
         'GF3':'Golfe 3',
