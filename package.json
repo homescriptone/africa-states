@@ -1,6 +1,6 @@
 {
   "name": "@homescriptone/africa-states",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "List of Africa states",
   "main": "index.js",
   "scripts": {
