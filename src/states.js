@@ -31,6 +31,19 @@ exports.states_lists = {
         'ZZ' : 'Zanzan'
     },
 
+    'CM' : { // Cameroun
+        'AD' : 'Adamaoua',
+        'CE' : 'Centre',
+        'EN' : 'Extrême Nord',
+        'ES' : 'Est',
+        'LT' : 'Littoral',
+        'NO' : 'Nord',
+        'NW' : 'North West',
+        'OU' : 'Ouest',
+        'SU' : 'Sud',
+        'SW' : 'South West'
+    },
+
     'BF': { //Burkina Faso
         'bale': "Balé",
         'banwa': "Banwa",
